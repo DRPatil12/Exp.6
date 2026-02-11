@@ -1,13 +1,13 @@
 Experiment 6: Conditional Statements in Python
-## Aim:
+# Aim:
 
 To study and implement conditional statements in Python using if, elif, and else constructs to solve decision-making problems.
 
-## Theory:
+# Theory:
 
 Conditional statements in Python are used to perform decision-making operations. They allow a program to execute certain blocks of code based on whether a condition is True or False.
 
-# Types of Conditional Statements:
+## Types of Conditional Statements:
 
 if statement – Executes a block of code if the condition is true.
 
@@ -17,7 +17,7 @@ if-elif-else ladder – Used when multiple conditions need to be checked.
 
 Nested if statements – One if statement inside another.
 
-# Syntax:
+## Syntax:
     if (condition):
 
       statements
@@ -31,7 +31,7 @@ Nested if statements – One if statement inside another.
       statements
 
 
-# Conditional statements are widely used in:
+## Conditional statements are widely used in:
 
 Decision making
 
@@ -41,8 +41,8 @@ Logical operations
 
 Real-life problem solving (grading, salary calculation, tax calculation, etc.)
 
-## Algorithms
-# 1. Check Whether a Number is Positive, Negative or Zero
+# Algorithms
+## 1. Check Whether a Number is Positive, Negative or Zero
 
     Start
 
@@ -56,7 +56,7 @@ Real-life problem solving (grading, salary calculation, tax calculation, etc.)
 
     Stop
 
-# 2. Check Whether a Number is Even or Odd
+## 2. Check Whether a Number is Even or Odd
 
     Start
 
@@ -68,7 +68,7 @@ Real-life problem solving (grading, salary calculation, tax calculation, etc.)
 
     Stop
 
-# 3. Find Largest of Three Numbers
+## 3. Find Largest of Three Numbers
 
     Start
 
@@ -82,7 +82,7 @@ Real-life problem solving (grading, salary calculation, tax calculation, etc.)
 
     Stop
 
-# 4. Calculate Grade for One Subject
+## 4. Calculate Grade for One Subject
 
     Start
 
@@ -100,7 +100,7 @@ Real-life problem solving (grading, salary calculation, tax calculation, etc.)
 
     Stop
 
-# 5. Calculate Average of 5 Subjects and Grade
+## 5. Calculate Average of 5 Subjects and Grade
 
     Start
 
@@ -122,7 +122,7 @@ Real-life problem solving (grading, salary calculation, tax calculation, etc.)
 
     Stop
 
-# 6. Check Whether a Year is a Leap Year
+## 6. Check Whether a Year is a Leap Year
 
     Start
 
@@ -136,7 +136,7 @@ Real-life problem solving (grading, salary calculation, tax calculation, etc.)
 
     Stop
 
-# 7. Increment a Given Date by One Day
+## 7. Increment a Given Date by One Day
 
     Start
 
@@ -166,7 +166,7 @@ Real-life problem solving (grading, salary calculation, tax calculation, etc.)
 
     Stop
 
-# 8. Check Whether Character is Vowel or Consonant
+## 8. Check Whether Character is Vowel or Consonant
 
     Start
 
@@ -178,7 +178,7 @@ Real-life problem solving (grading, salary calculation, tax calculation, etc.)
 
     Stop
 
-# 9. Calculate Gross Salary
+## 9. Calculate Gross Salary
 
     Start
 
@@ -208,7 +208,7 @@ Real-life problem solving (grading, salary calculation, tax calculation, etc.)
 
     Stop
 
-# 10. Calculate Income Tax Based on Annual Income
+## 10. Calculate Income Tax Based on Annual Income
 
     Start
 
@@ -226,7 +226,7 @@ Real-life problem solving (grading, salary calculation, tax calculation, etc.)
 
     Stop
 
-Conclusion:
+# Conclusion:
 
 In this experiment, we successfully studied and implemented various conditional statements in Python. We learned how decision-making structures like if, if-else, and if-elif-else are used to solve real-world problems such as grading systems, salary calculations, tax computation, leap year detection, and date increment operations.
 
