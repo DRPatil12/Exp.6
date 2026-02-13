@@ -1,7 +1,7 @@
 NAME: Dhruv Patil
 PRN: 25070123146
 
-# Experiment 6: Conditional Statements in Python
+# Experiment 6:Study Of Conditional Statements in Python
 # Aim:
 
 To study and implement conditional statements in Python using if, elif, and else constructs to solve decision-making problems.
