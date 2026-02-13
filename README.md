@@ -1,3 +1,6 @@
+NAME: Dhruv Patil
+PRN: 25070123146
+
 Experiment 6: Conditional Statements in Python
 # Aim:
 
